@@ -1,6 +1,6 @@
 <p align="center">
 <strong>Image-Level Domain Alignment for Real-time Underwater Crack Detection Using YOLO with an ROV</strong><br>
-<small>P.-C. Negue-Kala, C. Viel et L. Bergantin, ICRA 2026</small>
+<small>P.C. Negue Kala, C. Viel et L. Bergantin, ICRA 2026</small>
 </p>
 
 This repository contains the validation dataset associated with P.-C. Negue-Kala et al., ICRA 2026.
@@ -15,7 +15,7 @@ If you use this dataset, please cite our paper:
 
 ```bibtex
 @inproceedings{Negue-Kala2026,
-  author    = {P.-C. Negue-Kala and C. Viel and L. Bergantin},
+  author    = {P.C. Negue Kala and C. Viel and L. Bergantin},
   title     = {Image-Level Domain Alignment for Real-time Underwater Crack Detection Using YOLO with an ROV},
   booktitle = {ICRA 2026},
   year      = {2026}
