@@ -3,7 +3,7 @@
 <small>P.C. Negue Kala, C. Viel et L. Bergantin, ICRA 2026</small>
 </p>
 
-This repository contains the validation dataset associated with P.-C. Negue-Kala et al., ICRA 2026.
+This repository contains the validation dataset associated with P. C. Negue Kala et al., ICRA 2026.
 
 The dataset consists of 175 underwater RGB images collected with a camera mounted on an ROV during field tests in a turbid lake environment. The images include examples of cracks on submerged concrete surfaces, as well as a few examples of ropes and tethers (three and one images, respectively).
 
